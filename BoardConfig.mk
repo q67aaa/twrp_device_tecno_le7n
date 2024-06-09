@@ -18,7 +18,7 @@
 
 # Allow building with minimal manifest
 
-DEVICE_PATH := device/TECNO/TECNO_LE7n
+DEVICE_PATH := device/TECNO/LE7n
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
